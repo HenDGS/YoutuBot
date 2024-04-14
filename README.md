@@ -1,7 +1,7 @@
-# Youtubot
+# YoutuBot
 <a id="readme-top"></a>
 
-![Youtubot Logo](https://i.imgur.com/VHsP1Sl.png)
+<img src="https://i.imgur.com/VHsP1Sl.png" width="512" height="512">
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
@@ -36,7 +36,7 @@ A selfhosted Discord bot to play Youtube (and other websites supported by yt-dlp
 <a id="how-to-use"></a>
 ## Commands
 
-**Play**: Pass a url or a serach string to add a video to the queue and make the bot join the the voice channel.
+**Play**: Pass a url or a search string to add a video to the queue and make the bot join the the voice channel.
 
 **Stop**: Makes the bot stop playing the current video, and clears the queue.
 
