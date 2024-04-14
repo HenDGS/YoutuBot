@@ -1,7 +1,9 @@
 # YoutuBot
 <a id="readme-top"></a>
 
-<img src="https://i.imgur.com/VHsP1Sl.png" width="512" height="512">
+<div align="center">
+  <img src="https://i.imgur.com/VHsP1Sl.png" width="512" height="512">
+</div>
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
@@ -51,9 +53,13 @@ A selfhosted Discord bot to play Youtube (and other websites supported by yt-dlp
 ## How To Run
 
 1: Clone or download this repository;
+
 2: In the Discord Developer Portal create an application;
+
 3: Get a bot token;
+
 3: Create a .env with the bot token in the bot folder;
+
 4: Run this command to install the requirements (using a venv is recommended):
 ```bash 
 pip install -r requirements.txt
