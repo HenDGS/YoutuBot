@@ -2,7 +2,7 @@
 <a id="readme-top"></a>
 
 <div align="center">
-  <img src="https://i.imgur.com/VHsP1Sl.png" width="512" height="512">
+  <img src="https://i.imgur.com/GbXtyuI.png" width="512" height="512">
 </div>
 
 <!-- TABLE OF CONTENTS -->
